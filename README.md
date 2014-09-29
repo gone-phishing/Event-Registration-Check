@@ -6,10 +6,10 @@ The application prefetches all the id's of registered users from a file called '
 An id can be entered manually or by scanning it from a bar code scanner(for quick access). 
 Any id can fall under 4 test cases:
 
-*Registered and so allow to enter
-*Not registered but want to register
-*Already scanned and registered
-*Already scanned and not registered
+* Registered and so allow to enter
+* Not registered but want to register
+* Already scanned and registered
+* Already scanned and not registered
 
 All cases are taken into account and count of all users entering is maintained. Any new registrant is added to a separate file called 'new_reg.txt'
 
